@@ -38,6 +38,6 @@ The `iPhone` class implements the following interfaces:
 - `Phone`: Provides phone call and text messaging functionality.
 - `Browser`: Enables web browsing capabilities.
 
-![iPhone Interfaces](iphone.png)
+![iPhone Interfaces](iphone.jpg)
 
 Feel free to adapt and enhance this diagram and documentation as needed for your project.
